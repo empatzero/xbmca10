@@ -2,7 +2,7 @@ include ../depends.mk
 
 MALISDK=Mali_OpenGL_ES_2.0_SDK_for_Linux_On_ARM_v1.2.0
 SUBVERSION1=.9310_Linux
-LOCATION1=http://malideveloper.com/files
+LOCATION1=http://malideveloper.arm.com/downloads
 TARBALL1=$(MALISDK)$(SUBVERSION1).tar.gz
 
 GLESLIBS=mali-libs-v2
